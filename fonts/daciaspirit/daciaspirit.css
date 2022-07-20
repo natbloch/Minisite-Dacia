@@ -1,0 +1,27 @@
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Light_V1200.eot');
+	src:url('DaciaSpirit-Light_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Light_V1200.woff') format('woff'),
+		url('DaciaSpirit-Light_V1200.ttf') format('truetype');
+	font-weight:100;
+	font-style:normal;
+}
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Regular_V1200.eot');
+	src:url('DaciaSpirit-Regular_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Regular_V1200.woff') format('woff'),
+		url('DaciaSpirit-Regular_V1200.ttf') format('truetype');
+	font-weight:300;
+	font-style:normal;
+}
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Bold_V1200.eot');
+	src:url('DaciaSpirit-Bold_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Bold_V1200.woff') format('woff'),
+		url('DaciaSpirit-Bold_V1200.ttf') format('truetype');
+	font-weight:600;
+	font-style:normal;
+}

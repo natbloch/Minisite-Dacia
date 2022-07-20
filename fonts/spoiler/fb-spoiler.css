@@ -1,0 +1,60 @@
+@font-face{
+	font-family:'FbSpoiler';
+	src:url('FbSpoiler-Lightwebfont.eot');
+	src:url('FbSpoiler-Lightwebfont.eot?#iefix') format('embedded-opentype'),
+		url('FbSpoiler-Lightwebfont.woff') format('woff'),
+		url('FbSpoiler-Lightwebfont.ttf') format('truetype'),
+		url('FbSpoiler-Lightwebfont.svg#SpoilerLight') format('svg');
+	font-weight:300;
+	font-style:normal;
+}
+@font-face{
+	font-family:'FbSpoiler';
+	src:url('FbSpoilerBold.eot');
+	src:url('FbSpoilerBold.eot?#iefix') format('embedded-opentype'),
+		url('FbSpoilerBold.woff') format('woff'),
+		url('FbSpoilerBold.ttf') format('truetype'),
+		url('FbSpoilerBold.svg#SpoilerBold') format('svg');
+	font-weight:600;
+	font-style:normal;
+}
+@font-face{
+	font-family:'FbSpoiler';
+	src:url('fbspoiler-blackwebfont.eot');
+	src:url('fbspoiler-blackwebfont.eot?#iefix') format('embedded-opentype'),
+		url('fbspoiler-blackwebfont.woff') format('woff'),
+		url('fbspoiler-blackwebfont.ttf') format('truetype'),
+		url('fbspoiler-blackwebfont.svg#SpoilerBlack') format('svg');
+	font-weight:800;
+	font-style:normal;
+}
+
+
+
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Light_V1200.eot');
+	src:url('DaciaSpirit-Light_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Light_V1200.woff') format('woff'),
+		url('DaciaSpirit-Light_V1200.ttf') format('truetype');
+	font-weight:100;
+	font-style:normal;
+}
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Regular_V1200.eot');
+	src:url('DaciaSpirit-Regular_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Regular_V1200.woff') format('woff'),
+		url('DaciaSpirit-Regular_V1200.ttf') format('truetype');
+	font-weight:300;
+	font-style:normal;
+}
+@font-face{
+	font-family:'DaciaSpirit';
+	src:url('DaciaSpirit-Bold_V1200.eot');
+	src:url('DaciaSpirit-Bold_V1200.eot?#iefix') format('embedded-opentype'),
+		url('DaciaSpirit-Bold_V1200.woff') format('woff'),
+		url('DaciaSpirit-Bold_V1200.ttf') format('truetype');
+	font-weight:600;
+	font-style:normal;
+}

@@ -1,0 +1,21 @@
+@font-face{
+	font-family:'FbSpoilerEng';
+	src:url('fbspoileren-regular-webfont.eot');
+	src:url('fbspoileren-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('fbspoileren-regular-webfont.woff') format('woff'),
+		url('fbspoileren-regular-webfont.ttf') format('truetype'),
+		url('fbspoileren-regular-webfont.svg#SpoilerRegEng') format('svg');
+	font-weight:400;
+	font-style:normal;
+}
+@font-face{
+	font-family:'FbSpoilerEng';
+	src:url('FbSpoilerEng-Bold.eot');
+	src:url('FbSpoilerEng-Bold.eot?#iefix') format('embedded-opentype'),
+		url('FbSpoilerEng-Bold.woff') format('woff'),
+		url('FbSpoilerEng-Bold.woff2') format('woff2'),
+		url('FbSpoilerEng-Bold.ttf') format('truetype'),
+		url('FbSpoilerEng-Bold.svg#SpoilerBoldEng') format('svg');
+	font-weight:600;
+	font-style:normal;
+}
